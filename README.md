@@ -4,8 +4,7 @@ new project
 
 Reusable smart contract templates for Ethereum/Polygon.
 
-## Contracts
-
+##Contracts
 - `ERC20Token.sol` - Custom token
 - `StakingContract.sol` - Staking rewards
 - `VestingSchedule.sol` - Token vesting
