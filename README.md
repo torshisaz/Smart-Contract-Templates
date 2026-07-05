@@ -9,7 +9,6 @@ Reusable smart contract templates for Ethereum/Polygon.
 - `StakingContract.sol` - Staking rewards
 - `VestingSchedule.sol` - Token vesting
 - `MultiSigWallet.sol` - Multi-signature wallet
-
 ## Usage
 
 ```bash
