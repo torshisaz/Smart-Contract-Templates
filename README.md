@@ -2,7 +2,6 @@
 new project
 # Solidity Smart Contract Templates
 Reusable smart contract templates for Ethereum/Polygon.
-
 ##Contracts
 - `ERC20Token.sol` - Custom token
 - `StakingContract.sol` - Staking rewards
