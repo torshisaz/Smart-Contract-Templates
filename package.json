@@ -1,0 +1,15 @@
+{
+  "name": "contract-audit-kit",
+  "version": "1.0.0",
+  "description": "Smart contract templates with audit helpers",
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "audit": "node scripts/audit.js"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0"
+  },
+  "license": "MIT"
+}
